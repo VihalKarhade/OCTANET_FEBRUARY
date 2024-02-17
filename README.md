@@ -2,8 +2,6 @@
 # 
 
 # Task 1: Build a Landing Page using HTML and CSS
-# Hey there!
-# Welcome to my first task at OctaNet Services Pvt Ltd.! I am excited to share my first task as a web development intern. In this task, I had created a landing page using HTML and CSS.
-# Here I had crafted a landing page for website generator named "Website Planet".
-
+#A landing page is one of the best web development projects for beginners. A foundational understanding of HTML and CSS is required. You will learn how to add columns, divide sections, arrange items, add headers, footers. Create an impressive page using your creativity.
+#It is important to pay attention to the alignment, the padding, the color palette, and boxes. Make sure CSS doesn’t overlap elements.
 
