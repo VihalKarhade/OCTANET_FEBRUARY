@@ -6,7 +6,7 @@
 # It is important to pay attention to the alignment, the padding, the color palette, and boxes. Make sure CSS doesn’t overlap elements.
 
 # Task-2 : To-Do List App
-In this video, I have shown how to create a To-do List App with Localhost in JavaScript. 
-In this to-do app, you can easily add, edit, or delete your task. 
-There are filters button too that helps you to filter your tasks. 
-The tasks you added on this todo app will be stored in the browser local storage so, it won't be removed on page refresh or tab close.
+## In this video, I have shown how to create a To-do List App with Localhost in JavaScript. 
+## In this to-do app, you can easily add, edit, or delete your task. 
+## There are filters button too that helps you to filter your tasks. 
+## The tasks you added on this todo app will be stored in the browser local storage so, it won't be removed on page refresh or tab close.
